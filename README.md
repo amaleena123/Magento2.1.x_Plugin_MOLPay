@@ -1,4 +1,4 @@
-# Magento2.1.x_Plugin_MOLPay
+# Magento2.1.x Plugin MOLPay
 MOLPay Seamless for Magento2.1.x Plugin <br>
 This plugin support for Magento Version:
 - 2.1.1
